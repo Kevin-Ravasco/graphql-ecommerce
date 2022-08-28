@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# GraphQL Ecommerce Frontend
+A react frontend for a graphql api backend to understand the connection of the two using 
+apollo client.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
